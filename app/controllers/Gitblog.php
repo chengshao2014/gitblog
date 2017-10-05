@@ -547,4 +547,5 @@ class Gitblog extends CI_Controller
 	{
 		return $this->confObj['theme'] . "_" . md5(uri_string()) . ".html"; //category/1460001917
 	}
+    
 }

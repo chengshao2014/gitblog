@@ -1,8 +1,8 @@
 #GitBlog配置文件，使用4个空格代替Tab
 ---
 url: /
-title: Your-GitBlog
-subtitle: 自豪地采用GitBlog
+title: 老A博客
+subtitle: 老A博客
 theme: simple
 enableCache: true
 highlight: true
@@ -10,15 +10,15 @@ mathjax: false
 katex: false
 youyan:
 baiduAnalytics:
-keywords: GitBlog,博客,Markdown博客,jockchou
+keywords: 老A博客,博客,Jack.AChan,Jack.Spanrrows
 description: >
-    GitBlog是一个简单易用的Markdown博客系统
+    老A博客
 version: 2.2
 author:
-    name: your-name
-    email: your-email@example.com
-    github: your-github
-    weibo: your-weibo
+    name: Jack.Spanrrows
+    email: Jack.Spanrrows@gmail.com
+    github: chengshao2014
+    weibo: 
     avatar:
 blog:
     recentSize: 5
@@ -26,6 +26,6 @@ blog:
     pageBarSize: 5
     allBlogsForPage: false
 text:
-    title: 介绍
+    title: 简介
     intro: >
-          本博客使用Gitblog搭建，欢迎你!
+          老A博客欢迎你!
