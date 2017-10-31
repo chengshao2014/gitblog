@@ -531,7 +531,7 @@ class Gitblog extends CI_Controller
 
 		if (!$this->export) {
 			//生产模式下才会缓存
-			if (ENVIRONMENT == "production" && $this->confObj['enableCache']) {
+			if (ENVIRONMENT == "config_online" && $this->confObj['enableCache']) {
 				$cacheKey = $this->getCacheKey();
 				$this->cache->file->save($cacheKey, $htmlPage, GB_PAGE_CACHE_TIME);
 			}
