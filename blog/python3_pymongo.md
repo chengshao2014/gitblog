@@ -149,11 +149,9 @@ mongod --dbpath .
 mongo
 ```
 
+####3.测试python驱动
+
 ```
-3.测试python驱动：
-
-#coding=utf-8
-
 #coding=utf-8
 
 """
@@ -197,7 +195,6 @@ print collection.find({"username":"xiaohao"}).count()
 ```
 
 #### 4.Aggregation Examples：mongoDB聚合练习
-
 
 ```
 #coding=utf-8
