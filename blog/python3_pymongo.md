@@ -12,11 +12,16 @@ summary: MongoDB-python的API手记
 
 #####1.这里服务器环境是Debian8(ubuntu同下)，使用apt安装mongo
 
-###### sudo apt-get install mongodb
+```
+sudo apt-get install mongodb
+```
 
-#### 2.安装python的mongo的模块
+##### 2.安装python的mongo的模块
 
-###### sudo pip3.5 install pymongo
+```
+sudo pip3.5 install pymongo
+```
+
 
 ```
 
