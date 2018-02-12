@@ -53,9 +53,8 @@
  *
  * NOTE: If you change these, also change the error_reporting() code below
  */
-
 //define('ENVIRONMENT', isset($_SERVER['CI_ENV']) ? $_SERVER['CI_ENV'] : 'production');
-if (file_exists('/home/www/IDC_ONLINE'))
+if (file_exists('/www/web/IDC_ONLINE'))
 {
 	define('ENVIRONMENT', 'config_online');
 	define('ONLINE_ENV', 1);
