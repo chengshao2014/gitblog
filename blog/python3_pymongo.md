@@ -2,8 +2,8 @@
 author: Jack.Spanrrows
 date: 2018-02-12 
 title: MongoDB-python的API手记
-tags: python,mongo
-category: Python3
+tags: Python,MongoDB
+category: Python3,MongoDB
 status: publish
 summary: MongoDB-python的API手记
 -->
