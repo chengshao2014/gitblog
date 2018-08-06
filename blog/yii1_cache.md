@@ -1,11 +1,11 @@
 <!--
 author: Jack.Spanrrows
 date: 2018-02-12 
-title: Yii框架调用缓存使用方法
-tags: Yii
-category: PHP
+title: Yii1框架调用缓存使用方法
+tags: Yii Yii1
+category: Yii1
 status: publish
-summary: Yii框架调用缓存使用方法
+summary: Yii1框架调用缓存使用方法
 -->
 ```
 Yii的自带缓存都继承CCache 类, 在使用上基本没有区别

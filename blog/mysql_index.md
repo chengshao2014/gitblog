@@ -3,7 +3,7 @@ author: Jack.Spanrrows
 date: 2017-10-06 
 title: MySQL索引的创建、删除和查看
 tags: MySQL,索引
-category: mysql
+category: MySQL
 status: publish
 summary: MySQL索引的创建、删除和查看
 -->
