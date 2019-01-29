@@ -3,7 +3,7 @@ author: Jack.Spanrrows
 date: 2019-01-25 
 title: MySQL常用命令行参数查询
 tags: mysql
-category: mysql
+category: MySQL
 status: publish
 summary: MySQL常用命令行参数查询
 -->
