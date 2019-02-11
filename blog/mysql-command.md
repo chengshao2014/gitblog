@@ -1,6 +1,6 @@
 <!--
 author: Jack.Spanrrows
-date: 2019-01-25 
+date: 2019-01-26 
 title: MySQL常用命令行参数查询
 tags: mysql
 category: MySQL
