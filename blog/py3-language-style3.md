@@ -44,6 +44,6 @@ import sound.effects.echo
 from sound.effects import echo
 ```
 
-上一篇 [Python语言规范之导入](http://www.imlaoarc.com/blog/py3-language-style2.html)
+上一篇 [Python语言规范之导入](https://www.imlaoa.com/blog/py3-language-style2.html)
 
-下一篇 [Python语言规范之异常](http://www.imlaoarc.com/blog/py3-language-style4.html)
+下一篇 [Python语言规范之异常](https://www.imlaoa.com/blog/py3-language-style4.html)
