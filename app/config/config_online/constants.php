@@ -4,8 +4,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 defined('SHOW_DEBUG_BACKTRACE') OR define('SHOW_DEBUG_BACKTRACE', TRUE);
 defined('APPCACHEKEY') OR define('APPCACHEKEY', 'www.imlaoa.com'); //缓存前缀
 
-defined('FILE_URL') OR define('FILE_URL', 'http://www.imlaoa.com'); //附件地址
-defined('WEB_URL') OR define('WEB_URL', 'http://www.imlaoa.com');
+defined('FILE_URL') OR define('FILE_URL', 'https://www.imlaoa.com'); //附件地址
+defined('WEB_URL') OR define('WEB_URL', 'https://www.imlaoa.com');
 
 defined('MP_CACHE_DEFAULT_EXPIRES_ZERO') OR define('MP_CACHE_DEFAULT_EXPIRES_ZERO', 0);
 defined('MP_CACHE_DEFAULT_EXPIRES_TIME') OR define('MP_CACHE_DEFAULT_EXPIRES_TIME', 3600);
