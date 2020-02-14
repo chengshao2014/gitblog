@@ -2,8 +2,8 @@
 author: 阿成
 date: 2020-02-14 
 title: 致李芳女士的一封告白书
-tags: 告白
-category: 告白
+tags: 告白书
+category: 告白书
 status: publish
 summary: 致李芳女士的一封告白书
 -->
